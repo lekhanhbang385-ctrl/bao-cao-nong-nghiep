@@ -1,0 +1,6 @@
+{
+  "name": "Báo Cáo Địa Lí 9: Mô Hình Nuôi Tôm Công Nghệ Cao Bạc Liêu - Lê Khánh Băng",
+  "description": "Báo cáo thực hành Địa lí 9 (Bài 7): Mô hình nuôi tôm thẻ chân trắng siêu thâm canh ứng dụng công nghệ cao (RAS, Biofloc, IoT) tại Bạc Liêu - ĐBSCL. Thực hiện bởi Lê Khánh Băng - Lớp 9A3 - Trường THCS Nhơn Ái.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
